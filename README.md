@@ -24,3 +24,6 @@ Now you can compile stm32-vcu by typing
 make
 
 And upload it to your board using a JTAG/SWD adapter, the updater.py script or the esp8266 web interface
+
+
+git access token using cli is idiot
